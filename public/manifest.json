@@ -21,5 +21,6 @@
       "css": ["static/index.css"],
       "js": ["static/index.js"]
     }
-  ]
+  ],
+  "permissions": ["activeTab"]
 }

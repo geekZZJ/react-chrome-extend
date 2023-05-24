@@ -7,3 +7,15 @@ function App() {
 }
 
 export default App;
+
+{
+  /* <div className="translate-panel">
+<header>
+  翻译<span className="close">X</span>
+</header>
+<main>
+  <div className="title">简体中文</div>
+  <div className="content">...</div>
+</main>
+</div> */
+}
